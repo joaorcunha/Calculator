@@ -1,8 +1,8 @@
 <h1 align="center">Calculator Project</h1>
 
 <p align="center">
-  <img alt="Tech" src="https://img.shields.io/badge/HTML-ea6227?style=for-the-badge" />
-  <img alt="Tech" src="https://img.shields.io/badge/CSS-149fda?style=for-the-badge" />
+  <img alt="Tech" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="Tech" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="Tech" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
