@@ -3,6 +3,7 @@
 <p align="center">
   <img alt="Tech" src="https://img.shields.io/badge/HTML-ea6227?style=for-the-badge" />
   <img alt="Tech" src="https://img.shields.io/badge/CSS-149fda?style=for-the-badge" />
+  <img alt="Tech" src="https://img.shields.io/badge/Javascript-149fda?style=for-the-badge" />
 </p>
 
 <br />
