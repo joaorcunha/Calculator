@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  Confira o resultado do desafio em: <a href="https://joaorcunha.github.io/calculator/" target="_blank">https://joaorcunha.github.io/calculator/</a></em>
+  Confira o resultado do projeto em: <a href="https://joaorcunha.github.io/calculator/" target="_blank">https://joaorcunha.github.io/calculator/</a></em>
    
 </p>
 
